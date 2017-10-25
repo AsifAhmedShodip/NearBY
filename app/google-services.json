@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "756984958748",
+    "firebase_url": "https://nearby-fc7ca.firebaseio.com",
+    "project_id": "nearby-fc7ca",
+    "storage_bucket": "nearby-fc7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756984958748:android:581df975305f4268",
+        "android_client_info": {
+          "package_name": "com.example.asif.nearby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756984958748-c9cr8337s4j9ajecug8adqdf6492j0oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asif.nearby",
+            "certificate_hash": "c66860ccc3443ce45efaec26d8da8e0084122129"
+          }
+        },
+        {
+          "client_id": "756984958748-l3b5tvaqdani8ddj7imhm1jfelm40dua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFJv1m_RofpSBHF8wqiH4KOAZmxGkfByc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756984958748-l3b5tvaqdani8ddj7imhm1jfelm40dua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
